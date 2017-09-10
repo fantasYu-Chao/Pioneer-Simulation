@@ -11,6 +11,6 @@ Date: 2017.2
 
 1. For behavior based test in PID, configure and run PID_laser.cpp or PID_sonar.cpp.
 2. For behavior based test in Fuzzy logic control, configure and run FLC_re+oa.cpp.
-3. Necessary adjustments for parameters in fuzzy logic control are needed for much impressive performance.
+3. Necessary adjustments for parameters in fuzzy logic control are needed for a much impressive performance.
 
 
